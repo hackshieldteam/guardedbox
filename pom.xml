@@ -48,7 +48,7 @@
 		<builtBy>s3curitybug@gmail.com</builtBy>
 
 		<!-- Dependencies Versions -->
-		<bouncycastle.version>1.64</bouncycastle.version>
+		<bouncycastle.version>1.67</bouncycastle.version>
 		<hibernate-validator.version>6.1.0.Final</hibernate-validator.version>
 
 	</properties>
